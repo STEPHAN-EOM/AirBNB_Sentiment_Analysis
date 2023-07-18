@@ -1,4 +1,4 @@
-# Inside Airbnb Data - Dublin, Leinster, Ireland
+# Inside Airbnb Data - Dublin, Ireland
 
 This repository contains data files obtained from the Inside Airbnb website for Dublin, Leinster, Ireland. The data files include `listings.csv.gz` and `reviews.csv.gz`, which provide information on Airbnb listings and timestamped reviews, respectively.
 
