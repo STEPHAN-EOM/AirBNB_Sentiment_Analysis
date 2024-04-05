@@ -18,3 +18,7 @@ The following files are included in this repository:
 - `listings.csv.gz`: This file contains details of Airbnb listings in Dublin, Leinster, Ireland. It includes information such as listing ID, host ID, neighborhood, price, availability, and more.
 
 - `reviews.csv.gz`: This file contains timestamped reviews for Airbnb listings in Dublin, Leinster, Ireland. It includes information such as the listing ID, reviewer ID, date of the review, and the review text.
+
+## Link
+Project Link: [STEPHAN-EOM/AirBNB_Sentiment_Analysis](https://github.com/STEPHAN-EOM/AirBNB_Sentiment_Analysis)  
+LinkedIn: [Chanho Eom](https://www.linkedin.com/in/chanhoeom/)
